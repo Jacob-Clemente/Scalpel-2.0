@@ -1,0 +1,5 @@
+project: Scalpel-2.0
+target: scalpel
+
+cmds:
+  - cmd: /scalpel @@
