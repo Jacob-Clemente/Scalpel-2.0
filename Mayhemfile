@@ -1,4 +1,4 @@
-project: Scalpel-2.0
+project: scalpel
 target: scalpel
 
 cmds:
